@@ -117,7 +117,7 @@ Example of what the data set look like. It has 2 columns, Email Text describes t
 
 ```{r source-2-load}
 
-raw_2 <- read_csv("data/raw/phishing_email.csv") 
+raw_2 <- read_csv("data/raw/phishing_email_1.csv") 
 head(raw_2)
 
 ```
