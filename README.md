@@ -62,7 +62,29 @@ Always save your file, and commit it when you are ending a coding or writing ses
 Push your commits often! If you make mistakes (we're all human, it happens), this means you can see exactly where you may have accidently saved a file in the wrong folder.
 
 
+##Source overview
 
+Two data sets are used in this project: 
+
+- Phishing validation emails dataset, is provided under the project "Development Program with a Business Plan for 
+the Laboratory Complex of Sofia Tech Park"
+- Phishing Email Dataset, is an open source publication in order to allow researchers to study 
+phishing emails to improve detection methods.
+
+
+##What the project is about
+
+This project consists in quantifying which features/variables/characteristics in an email make it moke likely to be either 
+a phishing attempt or a safe email. 
+An example: An email that does not contain a link or does not have a request for money is more likely to be a safe email. 
+
+About phishing;
+Phishing is a type of cyber attack that tricks people into giving out personal sensitive infomation to cyber attaker 
+that pretend to be a trustworthy source. This project only focuses on phicng attack in emails.
+
+##AI log
+
+As of now, no AI has been used in the making of this project
 
 
 

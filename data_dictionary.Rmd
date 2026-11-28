@@ -1,0 +1,17 @@
+---
+title: "data_dictionary"
+output: html_document
+---
+
+#In phishing_email_1.csv
+
+- Text combined: The contents of the email as a string (only relevant contents are kept personal 
+  information does not appear on the string)
+- label: integer (either 0 or 1) where 0 represents an email that is safe and 1 a phishing email
+
+#In phishing_emails_v3.csv
+
+- Email text: The contents of the email as a string (only relevant contents are kept personal 
+  information does not appear on the string)
+- Email type: A string where the string is either "Safe Email" or "Phishing Email", they represent 
+  the label associated with each email. 
